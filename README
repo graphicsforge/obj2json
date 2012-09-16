@@ -1,0 +1,5 @@
+This is a simple wavefront obj to json (for webgl) converter
+
+Intended to allow my to grab things out of blender and drop them into the browser
+
+TODO: currently need to use the trianglify and export normals options in blender's trianglify
